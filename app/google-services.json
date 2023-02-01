@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48186220676",
+    "project_id": "kotlinmap-6d247",
+    "storage_bucket": "kotlinmap-6d247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48186220676:android:80852084fc56b5e958a2d1",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48186220676-vv1un55d5gmrjtlfe1qi9sa2icoecgha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub_1jZejRIRTgDetXT70NuELS11ubBUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48186220676-vv1un55d5gmrjtlfe1qi9sa2icoecgha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
